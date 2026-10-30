@@ -1,6 +1,10 @@
 # Claude Godot Maintainer
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/DarlysonGabriel/Claude-Godot-Maintainer/main/Sem%20t%C3%ADtulo.png" alt="Claude Godot Maintainer Banner" width="70%">
+</p>
+
+<p align="center">
   <strong>AI-powered repository maintenance and Godot Engine development skills for Claude.</strong>
 </p>
 
@@ -11,13 +15,13 @@
   <img src="https://img.shields.io/badge/Status-In_Development-orange?style=flat-square" alt="In Development">
 </p>
 
+---
+
 ## Overview
 
-**Claude Godot Maintainer** is a collection of instructions, references, and workflows designed to improve Claude AI's capabilities when maintaining GitHub repositories and working with Godot Engine projects.
+**Claude Godot Maintainer** is a collection of instructions, references, and workflows designed to improve Claude AI's capabilities when maintaining GitHub repositories and developing Godot Engine projects.
 
-The project provides structured guidance for code analysis, debugging, optimization, documentation, repository maintenance, and game development workflows.
-
-It combines general software engineering practices with references to official Godot documentation and community resources.
+The project combines software engineering practices with specialized Godot Engine knowledge, providing structured guidance for code analysis, debugging, optimization, documentation, and repository maintenance.
 
 ## Features
 
@@ -26,22 +30,21 @@ It combines general software engineering practices with references to official G
 - **Godot Development** — Guidance for GDScript, scenes, resources, nodes, and engine APIs.
 - **Performance Optimization** — CPU, GPU, physics, rendering, and memory considerations.
 - **Official Documentation** — References to Godot manuals, class references, and official repositories.
-- **Community Resources** — Access to Godot forums and community troubleshooting discussions.
+- **Community Resources** — Godot forums and community troubleshooting discussions.
 - **Documentation** — Assistance with README files, technical documentation, and release notes.
 - **GitHub Workflows** — Guidance for pull requests, issue triage, and repository maintenance.
 
 ## Repository Structure
 
 ```text
-claude-godot-maintainer/
-├── github-repo-maintainer/
-│   ├── SKILL.md
-│   ├── references/
-│   │   ├── workflows.md
-│   │   └── godot-sources.md
-│   └── templates/
-│       └── pull-request-template.md
-└── README.md
+Claude-Godot-Maintainer/
+└── github-repo-maintainer/
+    ├── SKILL.md
+    ├── references/
+    │   ├── workflows.md
+    │   └── godot-sources.md
+    └── templates/
+        └── pull-request-template.md
 ```
 
 ## Installation
@@ -49,15 +52,13 @@ claude-godot-maintainer/
 This project is designed for Claude's web interface using the custom Skills functionality.
 
 1. Download or clone this repository.
-2. Package the `github-repo-maintainer` directory as a ZIP file.
+2. Compress the `github-repo-maintainer` directory into a ZIP archive.
 3. Open Claude.
 4. Navigate to **Customize → Skills**.
 5. Select the option to upload a skill.
 6. Upload the ZIP archive and enable the skill.
 
 ## Documentation Sources
-
-The project uses official and community-maintained resources to support technical accuracy.
 
 ### Official Godot Resources
 
@@ -74,15 +75,13 @@ The project uses official and community-maintained resources to support technica
 - [Godot Forums](https://godotforums.org/)
 - [Godot Community](https://godotengine.org/community/)
 
-Official documentation is prioritized when verifying engine behavior and API compatibility. Community discussions are used as complementary sources for troubleshooting and practical experience.
+Official documentation is prioritized when verifying engine behavior and API compatibility. Community discussions provide complementary information for troubleshooting and practical implementation.
 
 ## Development Status
 
-This project is under active development.
+This project is under development.
 
-The current version focuses on repository maintenance and Godot Engine development workflows. Its structure is designed to support future skills, references, and specialized capabilities.
-
-Features and documentation may evolve as the project develops.
+The current version focuses on repository maintenance and Godot Engine development workflows. Its modular structure allows additional skills, references, and specialized capabilities to be introduced over time.
 
 ## Contributing
 
@@ -96,7 +95,7 @@ You can contribute by:
 - Improving code review and debugging procedures.
 - Reporting issues and suggesting new capabilities.
 
-Please keep contributions focused, technically accurate, and compatible with the project's goals.
+Please keep contributions focused, technically accurate, and aligned with the project's goals.
 
 ## License
 
