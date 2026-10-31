@@ -11,7 +11,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Claude_AI-Skills-D97757?style=flat-square" alt="Claude AI Skills">
   <img src="https://img.shields.io/badge/Godot-4.x-478CBF?style=flat-square&logo=godotengine&logoColor=white" alt="Godot 4.x">
-  <img src="https://img.shields.io/badge/Platform-Claude_Web-555555?style=flat-square" alt="Claude Web">
+  <img src="https://img.shields.io/badge/Platform-Any-555555?style=flat-square" alt="Claude Web">
   <img src="https://img.shields.io/badge/Status-In_Development-orange?style=flat-square" alt="In Development">
 </p>
 
