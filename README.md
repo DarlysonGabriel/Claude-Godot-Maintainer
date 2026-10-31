@@ -1,7 +1,7 @@
 # Claude Godot Maintainer
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DarlysonGabriel/Claude-Godot-Maintainer/main/Sem%20t%C3%ADtulo.png" alt="Claude Godot Maintainer Banner" width="70%">
+  <img src="https://raw.githubusercontent.com/DarlysonGabriel/Claude-Godot-Maintainer/main/Assets/Sem%20t%C3%ADtulo.png" alt="Claude Godot Maintainer Banner" width="70%">
 </p>
 
 <p align="center">
