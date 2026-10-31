@@ -42,7 +42,7 @@ Claude-Godot-Maintainer/
     ├── SKILL.md
     ├── references/
     │   ├── workflows.md
-    │   └── godot-sources.md
+    │   └── programming-resources-and-practices.md
     └── templates/
         └── pull-request-template.md
 ```
