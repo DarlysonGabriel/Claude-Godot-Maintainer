@@ -1,7 +1,7 @@
 # Claude Godot Maintainer
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DarlysonGabriel/Claude-Godot-Maintainer/main/Assets/Sem%20t%C3%ADtulo.png" alt="Claude Godot Maintainer Banner" width="70%">
+  <img src="https://raw.githubusercontent.com/DarlysonGabriel/Claude-Godot-Maintainer/main/Assets/Sem%20t%C3%ADtulo.png" alt="Claude Godot Maintainer Banner" width="100%">
 </p>
 
 <p align="center">
@@ -38,7 +38,6 @@ The project combines software engineering practices with specialized Godot Engin
 
 ```text
 Claude-Godot-Maintainer/
-└── github-repo-maintainer/
     ├── SKILL.md
     ├── references/
     │   ├── workflows.md
